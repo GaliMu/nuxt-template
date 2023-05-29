@@ -5,7 +5,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 ## Tip
 
 - 项目中使用 cz-git 提示工具编写 git commit message，详情查看[地址](https://cz-git.qbb.sh/zh/guide/)
-- 项目中使用 unocss 编写样式，使用方法请查看[github](https://github.com/unocss/unocss)
+- 项目中使用 unocss 编写样式，使用方法请查看[地址](https://github.com/unocss/unocss)
 
 ## Setup
 
