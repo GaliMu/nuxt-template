@@ -1,6 +1,7 @@
 {
   "name": "nuxt-app",
   "private": true,
+  "version": "0.1.0",
   "scripts": {
     "commit": "git add . && git-cz",
     "tag": "bumpp",
