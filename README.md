@@ -6,7 +6,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 
 - 项目中使用 cz-git 提示工具编写 git commit message，详情查看[地址](https://cz-git.qbb.sh/zh/guide/)
 - 项目中使用 unocss 编写样式，使用方法请查看[地址](https://github.com/unocss/unocss)
-- changelog生成插件[conventional-changelog](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-cli)
+- changelog生成插件[commit-and-tag-version](https://www.npmjs.com/package/commit-and-tag-version)
 ## Setup
 
 Make sure to install the dependencies:
