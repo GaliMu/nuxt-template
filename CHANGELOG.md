@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.2.0](https://github.com/GaliMu/nuxt-template/compare/v0.1.0...v0.2.0) (2025-05-12)
+
 ## 0.1.0 (2024-01-22)
 
 ### Features
