@@ -1,6 +1,11 @@
-import { defineConfig, presetUno, presetAttributify, transformerDirectives } from "unocss";
+import {
+  defineConfig,
+  presetWind3,
+  presetAttributify,
+  transformerDirectives,
+} from "unocss";
 
 export default defineConfig({
-  presets: [presetUno(), presetAttributify()],
+  presets: [presetWind3(), presetAttributify()],
   transformers: [transformerDirectives()],
 });
